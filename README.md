@@ -2,13 +2,13 @@
 - Predicted whether or not an individual has a disease using data processing, data visualization, and data prediction methods.
 
 For this project you need Requirements
-• Python IDE
-• Anaconda Navigator
-• Jupyter Notebook
-• Machine learning Libraries
-• Sample dataset
-• Random forest classifier method
-• Decision tree method
+- Python IDE
+- Anaconda Navigator
+- Jupyter Notebook
+- Machine learning Libraries
+- Sample dataset
+- Random forest classifier method
+- Decision tree method
 
 I have used Linear regression, decision tree, and random forest method. 
 
