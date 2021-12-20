@@ -8,7 +8,6 @@ For this project you need Requirements
 - Machine learning Libraries
 - Sample dataset
 - Random forest classifier method
-- Decision tree method
 
 I have used Linear regression, decision tree, and random forest method. 
 
